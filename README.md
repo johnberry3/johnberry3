@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/malachy5john" target="blank"><img src="https://img.shields.io/twitter/follow/malachy5john?logo=twitter&style=for-the-badge" alt="malachy5john" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce projects**
+- 🔭 I’m currently working on an **E-commerce projects**
 
 - 🌱 I’m currently learning **React Native**
 
