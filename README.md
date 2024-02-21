@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Next.js Full stack projects**
+- 👯 I’m looking to collaborate on **React.js Full stack projects**
 
 - 💬 Ask me about **React.js, Tailwind CSS**
 
